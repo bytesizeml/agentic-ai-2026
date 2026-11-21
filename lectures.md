@@ -22,6 +22,7 @@
 ### Lectures and Lecture Notes
 
 ***
+
 | Lecture | Lecture Topic |  Lecture Slides | Lecture Video |
 | --- | --- | --- | --- |
 | Oct 6 | From LLMs to Agents | [Week 1](lectures/week_1.pdf) | |
