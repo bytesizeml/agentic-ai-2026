@@ -1,4 +1,4 @@
-# LLMs: From Transformers to GPT| Winter 2026
+# Agentic AI Course | Autumn 2026
 
 ***
 
