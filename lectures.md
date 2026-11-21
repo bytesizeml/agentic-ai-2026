@@ -30,7 +30,7 @@
 | Oct 20 | Reasoning & Planning Patterns | [Week 3](lectures/week_3.pdf) | |
 | Oct 27 | Agentic RAG | [Week 4](lectures/week_4.pdf) | |
 | Nov 3 | Agent Memory | [Week 5](lectures/week_5.pdf) | |
-| Nov 10 | Evaluation & Observability | [Week 6](lectures/week_6.pdf) | [Video]()|
+| Nov 10 | Evaluation & Observability | [Week 6](lectures/week_6.pdf) | [Video](https://youtu.be/pE5UObDs3xw)|
 | Nov 17 | Safety & Case Studies | [Week 7](lectures/week_7.pdf) | |
 | Nov 24 | Project Presentations | | |
 | Dec 1 | Multi-Agent Systems & Frameworks | [Week 9](lectures/week_9.pdf) | |
